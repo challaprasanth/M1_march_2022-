@@ -21,3 +21,19 @@ Defining Our System
 
 Explanation
 Movie Ticket Booking System have few inbuilt features like Admin * Login * Can Change Price of a Ticket. * Can View the Reserved Tickets. * Exit System. User * Login with Credatials. * View the Movies Avaliable. * Purchase a Ticket. * View the avaliable seats. * Cancel a Ticket. * Exit System.
+
+
+High Level Requirements
+
+ID	                     Description	                                       Category                 	Status
+HR01	         User shall be able to login to the system                  	Techincal                	IMPLEMENTED
+HR02	         User shall be able to purchase a ticket                    	Techincal	                IMPLEMENTED
+HR03	         User shall be able to get summary of the ticket booked	      Techincal               	IMPLEMENTED
+
+
+Low level Requirements
+ID	                    Description                                                                   	HLR ID	Status (Implemented/Future)
+LR01	        User shall be able to login to the system with correct login details	                    HR01        	IMPLEMENTED
+LR02        	User need to book a ticket in a user entry mode	                                          HR01	        IMPLEMENTED
+LR03        	If appropriate login details are not entered a message is displayed-"wrong password"	    HR01	        IMPLEMENTED
+LR04        	Displaying the movies available	HR02	IMPLEMENTED
