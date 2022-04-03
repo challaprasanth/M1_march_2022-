@@ -1,0 +1,46 @@
+Introduction
+The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
+
+Research
+Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket
+The main goal of our project is to provide various types of customer facilities, and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
+
+FUNCTIONAL REQUIREMENT:
+In software and system engineering, a functional requirement defines a function of a system or its components, where a function is described as a specification of behavior between outputs and inputs.
+
+FOR EXAMPLE:
+
+Send an email when a new customer signs up or create a new account.
+
+ 
+
+ONLINE MOVIE TICKET BOOKING SYSTEM:
+If a customer wants to book the ticket, then he/she must be registered, an unregistered user cannot book the ticket. Registration is the first step of booking the tickets for any one.
+
+There are many factor’s or functional requirement for buying or selling the movie tickets some of them are given below;
+
+
+ 
+Registration
+Login
+Search movie
+Seat viewing
+Payment
+Logout
+Generate ticket
+Add movie
+Now we can over-view and describe all these functional requirements in detail.
+High Level Requirements
+
+ID	                     Description	                                       Category                 	Status
+HR01	         User shall be able to login to the system                  	Techincal                	IMPLEMENTED
+HR02	         User shall be able to purchase a ticket                    	Techincal	                IMPLEMENTED
+HR03	         User shall be able to get summary of the ticket booked	      Techincal               	IMPLEMENTED
+
+
+Low level Requirements
+ID	                    Description                                                                   	HLR ID	Status (Implemented/Future)
+LR01	        User shall be able to login to the system with correct login details	                    HR01        	IMPLEMENTED
+LR02        	User need to book a ticket in a user entry mode	                                          HR01	        IMPLEMENTED
+LR03        	If appropriate login details are not entered a message is displayed-"wrong password"	    HR01	        IMPLEMENTED
+LR04        	Displaying the movies available	HR02	IMPLEMENTED
